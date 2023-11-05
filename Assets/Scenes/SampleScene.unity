@@ -404,6 +404,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   goal: {fileID: 999743229}
+  agent: {fileID: 0}
 --- !u!1 &383846019
 GameObject:
   m_ObjectHideFlags: 0
@@ -460,6 +461,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   goal: {fileID: 999743229}
+  agent: {fileID: 0}
 --- !u!136 &383846022
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -700,6 +702,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   goal: {fileID: 1446975461}
+  agent: {fileID: 0}
 --- !u!195 &479284755
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -998,6 +1001,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   goal: {fileID: 1446975461}
+  agent: {fileID: 0}
 --- !u!195 &1057693784
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -1142,6 +1146,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   goal: {fileID: 1446975461}
+  agent: {fileID: 0}
 --- !u!195 &1174629135
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -1308,6 +1313,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   goal: {fileID: 999743229}
+  agent: {fileID: 0}
 --- !u!136 &1269133912
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -1662,6 +1668,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   goal: {fileID: 999743229}
+  agent: {fileID: 0}
 --- !u!136 &1653433356
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -1872,6 +1879,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   goal: {fileID: 1446975461}
+  agent: {fileID: 0}
 --- !u!195 &1880488052
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -1950,6 +1958,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   goal: {fileID: 999743229}
+  agent: {fileID: 0}
 --- !u!136 &1940209068
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -2178,6 +2187,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   goal: {fileID: 1446975461}
+  agent: {fileID: 0}
 --- !u!195 &2093391886
 NavMeshAgent:
   m_ObjectHideFlags: 0
